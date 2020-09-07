@@ -1,4 +1,4 @@
-
+﻿
 
 ## <h2 align="center">Welcome</h2>
 
@@ -28,3 +28,4 @@ I create free opensource programs and websites.🔨
 **Please support** me on patreon: https://www.patreon.com/MateSzabo or on paypal: https://paypal.me/mogyiii
 
      XMR: 44SSGsjvMsv53LkD5pZSxb7NzPeSqceybQwzpSRcfc3sWVjhkbNgTm6HDaUkQDcGG9TCoUMx7FNDxXE5iRJymncSLPkEa8C
+
