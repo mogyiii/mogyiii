@@ -19,8 +19,8 @@ I create free opensource programs and websites.🔨<br>
 <img src="https://img.shields.io/badge/-PHP-white?style=for-the-badge&logo=php&logoColor=purple">
 <img src="https://img.shields.io/badge/-Jquery-white?style=for-the-badge&logo=jquery&logoColor=black">
 <img src="https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=MySQL&logoColor=orange">
-<img src="https://img.shields.io/badge/-Visual-studio-white?style=for-the-badge&logo=Visual-studio&logoColor=purple">
-<img src="https://img.shields.io/badge/-C-sharp-blue?style=for-the-badge&logo=C-Sharp&logoColor=white">
+<img src="https://img.shields.io/badge/-Visual%20studio-white?style=for-the-badge&logo=Visual%20studio&logoColor=purple">
+<img src="https://img.shields.io/badge/-C%20sharp-blue?style=for-the-badge&logo=C%20Sharp&logoColor=white">
 .Net core,  Visual Basic,
 </span>
 <img src="https://github-readme-stats.vercel.app/api?username=mogyiii&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
