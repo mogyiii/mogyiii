@@ -14,14 +14,13 @@ I create free opensource programs and websites.🔨<br>
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=pink">
-<img src="https://img.shields.io/badge/-C sharp-blue?style=for-the-badge&logo=C Sharp&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=Java&logoColor=red">
 <img src="https://img.shields.io/badge/-Postgresql-white?style=for-the-badge&logo=Postgresql&logoColor=blue">
 <img src="https://img.shields.io/badge/-PHP-white?style=for-the-badge&logo=php&logoColor=purple">
 <img src="https://img.shields.io/badge/-Jquery-white?style=for-the-badge&logo=jquery&logoColor=black">
 <img src="https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=MySQL&logoColor=orange">
-<img src="https://img.shields.io/badge/-Visual studio-white?style=for-the-badge&logo=Visual studio&logoColor=purple">
-<img src="https://img.shields.io/badge/-Visual studio-white?style=for-the-badge&logo=&logoColor=purple">
+<img src="https://img.shields.io/badge/-Visualstudio-white?style=for-the-badge&logo=Visualstudio&logoColor=purple">
+<img src="https://img.shields.io/badge/-Csharp-blue?style=for-the-badge&logo=CSharp&logoColor=white">
 .Net core,  Visual Basic,
 </span>
 <img src="https://github-readme-stats.vercel.app/api?username=mogyiii&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
