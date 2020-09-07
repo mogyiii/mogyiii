@@ -2,10 +2,11 @@
 
 ## <h2 align="center">Welcome</h2>
 
- Hi 🔥 my name is Mogyiii. I programing since 2013.
-*My instagram: @mate.szabo96* 
-I create free opensource programs and websites.🔨
+ Hi 🔥 my name is Mogyiii. I programing since 2013.<br>
+*My instagram: @mate.szabo96* <br>
+I create free opensource programs and websites.🔨<br>
 <h2 align="center">🔧  My Skills 💯:</h2>
+<span>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -22,10 +23,10 @@ I create free opensource programs and websites.🔨
 <img src="https://img.shields.io/badge/-Visual studio-white?style=for-the-badge&logo=Visual studio&logoColor=purple">
 <img src="https://img.shields.io/badge/-Visual studio-white?style=for-the-badge&logo=&logoColor=purple">
 .Net core,  Visual Basic,
-
+</span>
 <img src="https://github-readme-stats.vercel.app/api?username=mogyiii&show_icons=true&include_all_commits=true&count_private=true&theme=algolia">
 <h2 align="center">Support me</h2>
-**Please support** me on patreon: https://www.patreon.com/MateSzabo or on paypal: https://paypal.me/mogyiii
+Plese Support me on patreon: https://www.patreon.com/MateSzabo or on paypal: https://paypal.me/mogyiii
 
      XMR: 44SSGsjvMsv53LkD5pZSxb7NzPeSqceybQwzpSRcfc3sWVjhkbNgTm6HDaUkQDcGG9TCoUMx7FNDxXE5iRJymncSLPkEa8C
 
