@@ -1,7 +1,17 @@
-### Hi there 👋
+## Hi 🔥
+*My instagram: @mate.szabo96* <br>
+I create free opensource programs and websites.🔨 <br>
+**💯My Skills:** C#,.Net core, Java, SCSS, Javascript(Jquery), PostgreSQL, MySQL, Visual Basic, PHP. <br>
+**Please support** me on patreon: https://www.patreon.com/MateSzabo or on paypal: https://paypal.me/mogyiii <br>
 
+     XMR: 44SSGsjvMsv53LkD5pZSxb7NzPeSqceybQwzpSRcfc3sWVjhkbNgTm6HDaUkQDcGG9TCoUMx7FNDxXE5iRJymncSLPkEa8C
+
+<!-- Start of WebFreeCounter Code -->
+<br>
+Visitors: <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gummfaqff&nd=6&style=9" border="0" alt="free counter"></a>
+<!-- End of WebFreeCounter Code -->
 <!--
-**mogyiii/mogyiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mogyiii/mogyiii** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
