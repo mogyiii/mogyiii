@@ -5,6 +5,7 @@
  Hi 🔥 my name is Mogyiii. I programing since 2013.<br>
 *My instagram: @mate.szabo96* <br>
 I create free opensource programs and websites.🔨<br>
+My email address: aimcreater@gmail.com <br>
 <h2 align="center">🔧  My Skills 💯:</h2>
 <span>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
