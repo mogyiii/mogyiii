@@ -3,7 +3,7 @@
 ## <h2 align="center">Welcome</h2>
 
  Hi 🔥 my name is Mogyiii. I programing since 2013.<br>
-*My instagram: @mate.szabo96* <br>
+ <br>
 I create free opensource programs and websites.🔨<br>
 My email address: aimcreater@gmail.com <br>
 <h2 align="center">🔧  My Skills 💯:</h2>
